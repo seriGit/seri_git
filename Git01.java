@@ -1,6 +1,7 @@
 
 public class Git01 {
 	public static void main(String[] args) {
+		
 		func01();
 		
 		Git01 g1 = new Git01();
